@@ -1,0 +1,2 @@
+8.1 d[S]/dt=k(-1)[ES]-k1[S][E]; d[E]/dt=(k(-1)+k2)[ES]-k1[E][S]; d[ES]/dt=k1[S][E]-(k2+k(-1))[ES]; d[P]/dt=k2[ES]
+8.2
